@@ -1,4 +1,4 @@
-# Notes on "The Design of the UNIX Operating System"
+# Notes on "The Design of the UNIX Operating System."
 
 These are my notes on the classic operating systems book: **The Design of the UNIX Operating System** by **Maurice J. Bach**.
 
